@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dolgozat/static/css/main.073c9b0a.css",
-    "main.js": "/Dolgozat/static/js/main.b092c85e.js",
-    "static/js/787.0bca8be2.chunk.js": "/Dolgozat/static/js/787.0bca8be2.chunk.js",
-    "index.html": "/Dolgozat/index.html",
-    "main.073c9b0a.css.map": "/Dolgozat/static/css/main.073c9b0a.css.map",
-    "main.b092c85e.js.map": "/Dolgozat/static/js/main.b092c85e.js.map",
-    "787.0bca8be2.chunk.js.map": "/Dolgozat/static/js/787.0bca8be2.chunk.js.map"
+    "main.css": "/bejelentkezes/static/css/main.073c9b0a.css",
+    "main.js": "/bejelentkezes/static/js/main.f89d2163.js",
+    "static/js/787.ca05ba49.chunk.js": "/bejelentkezes/static/js/787.ca05ba49.chunk.js",
+    "index.html": "/bejelentkezes/index.html",
+    "main.073c9b0a.css.map": "/bejelentkezes/static/css/main.073c9b0a.css.map",
+    "main.f89d2163.js.map": "/bejelentkezes/static/js/main.f89d2163.js.map",
+    "787.ca05ba49.chunk.js.map": "/bejelentkezes/static/js/787.ca05ba49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b092c85e.js"
+    "static/js/main.f89d2163.js"
   ]
 }
