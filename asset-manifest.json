@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Login/static/css/main.073c9b0a.css",
-    "main.js": "/Login/static/js/main.502bb6c9.js",
-    "static/js/787.0bca8be2.chunk.js": "/Login/static/js/787.0bca8be2.chunk.js",
-    "index.html": "/Login/index.html",
-    "main.073c9b0a.css.map": "/Login/static/css/main.073c9b0a.css.map",
-    "main.502bb6c9.js.map": "/Login/static/js/main.502bb6c9.js.map",
-    "787.0bca8be2.chunk.js.map": "/Login/static/js/787.0bca8be2.chunk.js.map"
+    "main.css": "/Dolgozat/static/css/main.073c9b0a.css",
+    "main.js": "/Dolgozat/static/js/main.b092c85e.js",
+    "static/js/787.0bca8be2.chunk.js": "/Dolgozat/static/js/787.0bca8be2.chunk.js",
+    "index.html": "/Dolgozat/index.html",
+    "main.073c9b0a.css.map": "/Dolgozat/static/css/main.073c9b0a.css.map",
+    "main.b092c85e.js.map": "/Dolgozat/static/js/main.b092c85e.js.map",
+    "787.0bca8be2.chunk.js.map": "/Dolgozat/static/js/787.0bca8be2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.502bb6c9.js"
+    "static/js/main.b092c85e.js"
   ]
 }
